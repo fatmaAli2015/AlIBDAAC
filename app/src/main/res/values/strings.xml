@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">AlIBDAA Pest Control and Cleaning</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="Home">Home</string>
+    <string name="pest_Control">Pest Control</string>
+    <string name="Cleaning">Cleaning</string>
+    <string name="About">About Us</string>
+    <string name="ContactUs">Contact Us</string>
+    <string name="Gallery">Gallery</string>
+    <string name="Videos">Videos</string>
+    <string name="Facebook">FaceBook</string>
+    <string name="Twitter">Twitter</string>
+    <string name="News">Our News</string>
+    <string name="OurLocation">Our Location</string>
+    <string name="BookNow">Book Now</string>
+    <string name="WebSite">WebSite</string>
+    <string name="DirectCall">Direct Call</string>
+
+    <string-array name="indexHome">
+        <item>About Us</item>
+        <item>Book Now</item>
+        <item>Pest Control</item>
+        <item>Cleaning</item>
+        <item>Videos</item>
+        <item>WebSite</item>
+    </string-array>
+    <string-array name="indexPest">
+        <item>Information Pest Control</item>
+        <item>Gallery Pest Control</item>
+    </string-array>
+    <string-array name="indexPestGallery">
+        <item>Super-2000 Gold Sprayer</item>
+        <item>MINI MIST Fogger</item>
+        <item>Best Fogger</item>
+    </string-array>
+    <string name="pestgallery">Product Description:
+        For Killing incests such as Mosquito , Black flies,
+    Deerflies, Botflies, Cockroach, Moths, Wasps,Queen bees and the lick
+</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="Languages">Languages</string>
+    <string name="title_activity_home">Home</string>
+    <string name="full_name">full_name</string>
+    <string name="email">email</string>
+    <string name="phone">phone</string>
+    <string name="Client">Client</string>
+    <string name="NewClient">New Client</string>
+    <string name="ExistingClient">Existing Client</string>
+</resources>
